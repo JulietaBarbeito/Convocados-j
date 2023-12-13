@@ -1,0 +1,28 @@
+export const Jugadores= [
+    [
+        {  nombre : "Sergio Rochet", edad: 30,  cuadro:"Internacional (BRA)", img:"https://www.auf.org.uy/imagenes/img_contenido/seleccion_jugador/a/rochetmodjun2023.jpg" },
+        {  nombre : "Franco Israel", edad: 23,  cuadro:" Sporting CP",  img: "https://www.auf.org.uy/imagenes/img_contenido/seleccion_jugador/a/israelmodjun2023.jpg" },       
+        {  nombre : "Santiago Mele", edad: 26,  cuadro:" Junior (COL)",  img: "https://www.auf.org.uy/imagenes/img_contenido/seleccion_jugador/a/melemodjun2023.jpg" },
+        {  nombre : "Ronald Araujo", edad: 24,  cuadro:" FC Barcelona (ESP)",  img: "https://www.auf.org.uy/imagenes/img_contenido/seleccion_jugador/a/araujo-ronald.png" },    
+        {  nombre : "José María Giménez", edad: 28,  cuadro:"Atlético de Madrid (ESP)",  img: "https://www.auf.org.uy/imagenes/img_contenido/seleccion_jugador/a/gime-769-nez.jpg" }, 
+        {  nombre : "Sebastián Cáceres", edad: 22,  cuadro:"América (MEX)",  img: "https://www.auf.org.uy/imagenes/img_contenido/seleccion_jugador/a/caceresmodjun2023.jpg" },
+        {  nombre : "Matías Viña", edad: 26,  cuadro:"Sassuolo (ITA)",  img: "https://www.auf.org.uy/imagenes/img_contenido/seleccion_jugador/a/vinamodjun2023.jpg" }, 
+        {  nombre : "Bruno Méndez", edad: 24,  cuadro:"Corinthians (BRA)",  img: "https://www.auf.org.uy/imagenes/img_contenido/seleccion_jugador/a/mendezmodjun2023.jpg" },      
+        {  nombre : "Guillermo Varela", edad: 30,  cuadro:"Flamengo (BRA)",  img: "https://www.auf.org.uy/imagenes/img_contenido/seleccion_jugador/a/varelamodjun2023.jpg" },                        
+        {  nombre : "Mathías Olivera", edad: 26,  cuadro:"Napoli (ITA)",  img: "https://www.auf.org.uy/imagenes/img_contenido/seleccion_jugador/a/mathiolivera16.jpg" },  
+        {  nombre : "Manuel Ugarte", edad: 22,  cuadro:" PSG (FRA)",  img: "https://www.auf.org.uy/imagenes/img_contenido/seleccion_jugador/a/manolougart.jpg" }, 
+        {  nombre : "Rodrigo Bentancur", edad: 26,  cuadro:" Tottenham Hotspur (ENG)",  img: "https://www.auf.org.uy/imagenes/img_contenido/seleccion_jugador/a/bentancur.jpg" },
+        {  nombre : "Federico Valverde", edad: 25,  cuadro:" Real Madrid Real Madrid (ESP)",  img: "https://www.auf.org.uy/imagenes/img_contenido/seleccion_jugador/a/halconcapitan.jpg" },  
+        {  nombre : "Felipe Carballo", edad: 27,  cuadro:" Gremio (BRA)",  img: "https://www.auf.org.uy/imagenes/img_contenido/seleccion_jugador/a/carballomodjun2023.jpg" },  
+        {  nombre : "Agustín Canobbio", edad: 25,  cuadro:" Atletico Paranaense (BRA)",  img: "https://www.auf.org.uy/imagenes/img_contenido/seleccion_jugador/a/canobbiomodjun2023.jpg" },  
+        {  nombre : "Nicolás de la Cruz", edad: 26,  cuadro:" C.A River Plate (ARG)",  img: "https://www.auf.org.uy/imagenes/img_contenido/seleccion_jugador/a/delacruyffiajwbnav.jpg" }, 
+        {  nombre : "Giorgian De Arrascaeta", edad: 29,  cuadro:"  Flamengo (BRA)",  img: "https://www.auf.org.uy/imagenes/img_contenido/seleccion_jugador/a/gioergian.png" }, 
+        {  nombre : "Facundo Pellistri", edad: 21,  cuadro:" Manchester United (GBR)",  img: "https://www.auf.org.uy/imagenes/img_contenido/seleccion_jugador/a/pellistrimodjun2023.jpg" }, 
+        {  nombre : "Maximiliano Araújo", edad: 23,  cuadro:" Toluca (MEX)",  img: "https://www.auf.org.uy/imagenes/img_contenido/seleccion_jugador/a/araujomodjun2023.jpg" },
+        {  nombre : "Facundo Torres", edad: 23,  cuadro:" Orlando City (USA)",  img: "https://www.auf.org.uy/imagenes/img_contenido/seleccion_jugador/a/torresmodjun2023.jpg" },
+        {  nombre : "Cristian Olivera", edad: 21,  cuadro:" Los Ángeles F.C (USA)",  img: "https://www.auf.org.uy/imagenes/img_contenido/seleccion_jugador/a/crisolivera9.jpg" },
+        {  nombre : "Federico Viñas", edad: 25,  cuadro:" León (MEX)",  img: "https://www.auf.org.uy/imagenes/img_contenido/seleccion_jugador/a/vin-771-as.jpg" },
+        {  nombre : "Darwin Núñez", edad: 24,  cuadro:"  Liverpool FC (ENG)",  img: "https://www.auf.org.uy/imagenes/img_contenido/seleccion_jugador/a/darwin.png" },
+        {  nombre : "Luis Suarez", edad: 36,  cuadro:" Gremio (BRA)",  img: "https://www.auf.org.uy/imagenes/img_contenido/seleccion_jugador/a/sua-769-rez.jpg" },
+    ]
+]
